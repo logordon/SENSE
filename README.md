@@ -1,2 +1,2 @@
 # SENSE
-Smart glasses for the blind
+A Modern Blind Navigation System
