@@ -4,7 +4,7 @@
 # Welcome
 Welcome and thank you for checking out _Project SENSE_. To get an indepth guide on how this project was done **please visit the project [Wiki](https://github.com/logordon/SENSE/wiki)**. 
 
-Thank you and happy prototyping - Gordon Lo
+_Thank you and happy prototyping_ - Gordon Lo
 
 # Project Overview Documents
 **SENSE** was the 2018 Fall Northeastern Capstone 2nd place winner. Listed below are documents that will give you an overview of what _Project SENSE_ is about.
