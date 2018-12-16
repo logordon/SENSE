@@ -1,2 +1,2 @@
-# SENSE
-A Modern Blind Navigation System
+# SENSE: Modernizing Blind Navigational Tools
+![Sense Glasses](https://github.com/logordon/SENSE/blob/master/Project%20Images/DSC06575.JPG)
