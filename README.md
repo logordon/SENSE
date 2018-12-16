@@ -10,4 +10,4 @@ Welcome and thank you for checking out _Project SENSE_. To get an indepth guide 
 * [Abstract](https://github.com/logordon/SENSE/blob/master/Presentation%20Documents/Abstract.pdf)
 
 # Special Thanks
-Special thanks to [Arjun Vinod](https://github.com/arjun7965) for his extensive knowledge on hardware and software integration.
+Special thanks to [Arjun Vinod](https://github.com/arjun7965) for his extensive knowledge on hardware and software integration and my good friend Lek Kai Ming for modeling. 
