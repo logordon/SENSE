@@ -8,3 +8,6 @@ Welcome and thank you for checking out _Project SENSE_. To get an indepth guide 
 SENSE was the 2019 Fall Northeastern Capstone 2nd place winner. Listed below are documents that will give you an overview of what _Project SENSE_ is about.
 * [Project Presentation](https://github.com/logordon/SENSE/blob/master/Presentation%20Documents/SENSE%20Final%20Presentation.pdf)
 * [Abstract](https://github.com/logordon/SENSE/blob/master/Presentation%20Documents/Abstract.pdf)
+
+# Special Thanks
+Special thanks to [Arjun Vinod](https://github.com/arjun7965) for his extensive knowledge on hardware and software integration.
