@@ -2,7 +2,7 @@
 ![Sense Glasses](https://github.com/logordon/SENSE/blob/master/Project%20Images/DSC06593.JPG)
 
 # Welcome
-Welcome and thank you for checking out _Project SENSE_. To get an indepth guide on how this project was done **please visit the project [Wiki](https://github.com/logordon/SENSE/wiki)**. 
+Welcome and thank you for checking out _Project SENSE_. For more information on how this project was done **please visit the project [Wiki](https://github.com/logordon/SENSE/wiki)**. 
 
 _Thank you and happy prototyping_ - Gordon Lo
 
@@ -13,3 +13,4 @@ _Thank you and happy prototyping_ - Gordon Lo
 
 # Special Thanks
 Special thanks to [Arjun Vinod](https://github.com/arjun7965) for his extensive knowledge on hardware and software integration and my good friend Lek Kai Ming for modeling. 
+
