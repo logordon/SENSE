@@ -11,6 +11,9 @@ _Thank you and happy prototyping_ - Gordon Lo
 * [Project Presentation](https://github.com/logordon/SENSE/blob/master/Presentation%20Documents/SENSE%20Final%20Presentation.pdf)
 * [Abstract](https://github.com/logordon/SENSE/blob/master/Presentation%20Documents/Abstract.pdf)
 
+# Last Update
+December 24, 2018 - Gordon Lo
+
 # Special Thanks
 Special thanks to [Arjun Vinod](https://github.com/arjun7965) for his extensive knowledge on hardware and software integration and my good friend Lek Kai Ming for modeling. 
 
